@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .section {
+    padding: 100px;
+    text-align: center;
+  }
+  
+  .section h1 {
+    color: #333;
+  }
+  
